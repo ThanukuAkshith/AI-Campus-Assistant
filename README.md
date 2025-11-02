@@ -1,4 +1,4 @@
-text
+
 # AI Campus Assistant Chatbot
 
 An intelligent AI-powered campus assistant built with FastAPI that helps students explore, search, and enroll in AI/ML-related courses through natural language conversations. The chatbot uses simple intent detection logic to understand user queries and respond accordingly.
@@ -53,7 +53,6 @@ pip install fastapi uvicorn sqlalchemy pydantic
 Run the application
 uvicorn main:app --reload
 
-text
 
 ## 🔗 Access API
 
